@@ -41,7 +41,7 @@ All logs are being saved in `console.log` to allow easy debugging when running a
 2. Create or Edit a Crystal Report file.
 3. Insert a new picture.
 4. Right click the picture and select `Format Graphic...`
-5. Open `picture` tab and edit `Graphic Location` (x-2 logo)
+5. Open `picture` tab and edit `Graphic Location` (x-2 icon)
 
 ```javascript
 // Using a SQL field
